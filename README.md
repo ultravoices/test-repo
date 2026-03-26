@@ -1,6 +1,7 @@
 # A Git(Hub) Test Repository
 
 This is me testing a change to this file!
+Adding a branch difference
 
 Hey! This is my personal Git(Hub) Test Repository where I experiment with Git and GitHub. 
 
